@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EngSocietyNight/static/css/main.55c66f2f.css",
+    "main.js": "/EngSocietyNight/static/js/main.de7d3b9d.js",
+    "static/js/453.010bfcbc.chunk.js": "/EngSocietyNight/static/js/453.010bfcbc.chunk.js",
+    "static/media/bg8.png": "/EngSocietyNight/static/media/bg8.78bb3398f2ccabb1cd11.png",
+    "index.html": "/EngSocietyNight/index.html",
+    "main.55c66f2f.css.map": "/EngSocietyNight/static/css/main.55c66f2f.css.map",
+    "main.de7d3b9d.js.map": "/EngSocietyNight/static/js/main.de7d3b9d.js.map",
+    "453.010bfcbc.chunk.js.map": "/EngSocietyNight/static/js/453.010bfcbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55c66f2f.css",
+    "static/js/main.de7d3b9d.js"
+  ]
+}
